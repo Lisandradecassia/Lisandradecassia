@@ -1,6 +1,18 @@
 ### Olá! Eu sou a Lisandra de Cássia!😉
 
-- 🌱 I’m currently learning Javascript e Tecnologia da informação.
+- 🌱 Olá, meu nome é Lisandra, e sou uma desenvolvedora em construção.
+
+Depois de atuar por mais de 7 anos na área de Relacionamento com o cliente, comecei a estudar programação, com foco em front and, Java, HTML, CSS e JavaScript.
+
+Esses anos de mercado me ajudaram a desenvolver uma série de habilidades e competências como: comunicação, trabalho em equipe, auto gerenciamento, senso crítico, liderança e gerenciamento de tempo.
+
+Com a pandemia houve celeridade em muitos aspectos, e a área de tecnologia precisou se adaptar a esse cenário de maneira muito rápida. 
+Enxergando essas oportunidades, e entendendo que esse mercado seria cada vez mais necessário, quis desbravar outras vertentes que pudessem atender a necessidade do cliente.
+Sou altamente visual, e tenho muito interesse em criação e desenvolvimento de interfaces.
+
+Atualmente faço parte do Bootcamp da Resilia Educação na qual estudo Desenvolvimento Full Stack, e na UNOPAR, estudo  Desenvolvimento Back And.
+
+Este é o meu primeiro contato com a área, e me sinto pronta para mergulhar nesse universo.
 
 <div align="center">
   <a href="https://github.com/Lisandradecassia">
