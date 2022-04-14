@@ -1,18 +1,4 @@
-### Olá! Eu sou a Lisandra de Cássia!😉
-
-- 🌱 Olá, meu nome é Lisandra, e sou uma desenvolvedora em construção.
-
-Depois de atuar por mais de 7 anos na área de Relacionamento com o cliente, comecei a estudar programação, com foco em front and, Java, HTML, CSS e JavaScript.
-
-Esses anos de mercado me ajudaram a desenvolver uma série de habilidades e competências como: comunicação, trabalho em equipe, auto gerenciamento, senso crítico, liderança e gerenciamento de tempo.
-
-Com a pandemia houve celeridade em muitos aspectos, e a área de tecnologia precisou se adaptar a esse cenário de maneira muito rápida. 
-Enxergando essas oportunidades, e entendendo que esse mercado seria cada vez mais necessário, quis desbravar outras vertentes que pudessem atender a necessidade do cliente.
-Sou altamente visual, e tenho muito interesse em criação e desenvolvimento de interfaces.
-
-Atualmente faço parte do Bootcamp da Resilia Educação na qual estudo Desenvolvimento Full Stack, e na UNOPAR, estudo  Desenvolvimento Back And.
-
-Este é o meu primeiro contato com a área, e me sinto pronta para mergulhar nesse universo.
+### Olá! Eu sou a Lisandra!😉
 
 <div align="center">
   <a href="https://github.com/Lisandradecassia">
@@ -36,3 +22,12 @@ Este é o meu primeiro contato com a área, e me sinto pronta para mergulhar nes
   
 </div>
   
+ ##
+ 
+Sou formada na área de gestão de pessoas, com MBA em Marketing e vendas, e venho da área comercial e de relacionamento com o cliente. 
+Esses anos de mercado me ajudaram a desenvolver uma série de habilidades e competências como: comunicação, trabalho em equipe, auto gerenciamento, senso crítico, liderança e gerenciamento de tempo.
+Penso que as pessoas são fundamentais para qualquer plano de negócio em todas as etapas, e me vi querendo viver essa experiência através de uma outra ótica. 
+
+A partir de expertises desenvolvidas em outras experiências, quero somar a minha carreira de desenvolvedora, onde venho adquirindo expertise em diversas tecnologias como: HTML, CSS, JavaScript  e seus respectivos frameworks, versionamento de código com GIT e metodologias ágeis com SCRUM e Kanban.
+
+Sigo me aprofundando em desenvolvimento backend e frontend e fortalecendo meus conhecimentos, através da Unopar, onde tenho desenvolvido outras habilidades como, produção ou desenvolvimento de softwares, administração de redes, infraestrutura de TI e banco de dados.
