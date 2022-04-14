@@ -1,4 +1,3 @@
-### Olá! Eu sou a Lisandra!😉
 
 <div align="center">
   <a href="https://github.com/Lisandradecassia">
@@ -23,7 +22,7 @@
 </div>
   
  ##
- 
+ ### Olá! Eu sou a Lisandra!😉
 Sou formada na área de gestão de pessoas, com MBA em Marketing e vendas, e venho da área comercial e de relacionamento com o cliente. 
 Esses anos de mercado me ajudaram a desenvolver uma série de habilidades e competências como: comunicação, trabalho em equipe, auto gerenciamento, senso crítico, liderança e gerenciamento de tempo.
 Penso que as pessoas são fundamentais para qualquer plano de negócio em todas as etapas, e me vi querendo viver essa experiência através de uma outra ótica. 
