@@ -18,9 +18,7 @@
  <a href=https://discord.com/channels/@me/954540540647583815" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lisandradecassia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lisandradecassia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
-  
  ##
  ### Olá! Eu sou a Lisandra!😉
 Sou formada na área de gestão de pessoas, com MBA em Marketing e vendas, e venho da área comercial e de relacionamento com o cliente. 
