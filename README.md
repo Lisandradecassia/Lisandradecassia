@@ -24,7 +24,7 @@ Sigo me aprofundando em desenvolvimento backend e frontend e fortalecendo meus c
 
 <div display="inline-block">
  <p align="left">📚 Tenho estudado e me aprofundado em react;</p>
- <p align="left">📷 Compartilho um dos meus hobs que é viajar (uma blogueira bem low profile), mas especialmente, adoraria trocar com você sobre programação  <a href="https://www.instagram.com/lisandradecassia">Instagram</a>;</p>
+ <p align="left">📷 No  <a href="https://www.instagram.com/lisandradecassia">Instagram</a> compartilho um dos meus hobs que é viajar (uma blogueira bem low profile), mas especialmente, adoraria trocar com você sobre programação;</p>
  <p align="left">☕ Café e livros sempre caem bem;</p>
 </div>
 
