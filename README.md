@@ -45,7 +45,8 @@ Sigo me aprofundando em desenvolvimento backend e frontend e fortalecendo meus c
   <a href="https://github.com/Lisandradecassia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisandradecassia&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandradecassia&layout=compact&langs_count=7&theme=synthwave"/>
-</div> </br>
+</div> 
+</br>
   
   ![Capa](https://user-images.githubusercontent.com/102766893/195422000-b51be00a-b3d2-49e8-92a9-be776231d976.jpg)
 
