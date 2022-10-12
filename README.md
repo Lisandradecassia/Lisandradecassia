@@ -1,5 +1,4 @@
-![Capa Github](https://user-images.githubusercontent.com/102766893/195367473-28565f26-83d8-46ba-a691-511735d8d9a7.jpg)
-
+![Capa Github (1)](https://user-images.githubusercontent.com/102766893/195413841-c18772c8-3f28-4671-a2e9-347a8e794cfb.jpg)
 </br>
 </br>
 Tenho 28 anos, moro em Teresina/PI e atuei por mais de 7 anos na área de Relacionamento com o
