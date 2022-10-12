@@ -9,6 +9,8 @@ Quanto mais eu aprendo, mais eu amo tudo isso! :purple_heart:
 </br>
 Sigo me aprofundando em desenvolvimento backend e frontend e fortalecendo meus conhecimentos, através da Unopar e cursos da Alura, onde tenho desenvolvido outras habilidades como, produção ou desenvolvimento de softwares, administração de redes, infraestrutura de TI e banco de dados.
 </br>
+
+![Capa Github (2)](https://user-images.githubusercontent.com/102766893/195421275-aac73888-3784-474b-b4ab-93bdc2d7f364.jpg)
 </br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
@@ -43,9 +45,11 @@ Sigo me aprofundando em desenvolvimento backend e frontend e fortalecendo meus c
   <a href="https://github.com/Lisandradecassia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisandradecassia&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandradecassia&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+</div> </br>
   
- </br>
- </br>
+  ![Capa](https://user-images.githubusercontent.com/102766893/195422000-b51be00a-b3d2-49e8-92a9-be776231d976.jpg)
+
+
+
 
 
