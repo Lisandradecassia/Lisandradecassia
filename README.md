@@ -4,7 +4,7 @@
 Tenho 28 anos, moro em Teresina/PI e atuei por mais de 7 anos na área de Relacionamento com o
 cliente, e por desejar mudar de vida e ter oportunidades melhores, decidi estudar programação. </br>
 Sou iniciante no universo tech e nesse momento de transição de carreira, busco minha primeira oportunidade no mercado de tecnologia. </br>
-Quanto mais eu aprendo, mais tenho me apaixonado por tudo isso. O front end já tem meu coração! :purple_heart:
+Quanto mais eu aprendo, mais tenho me apaixonado por tudo isso. Inclusive, o front end já tem meu coração! :purple_heart:
 </br>
 
 ![Capa Github (2)](https://user-images.githubusercontent.com/102766893/195421275-aac73888-3784-474b-b4ab-93bdc2d7f364.jpg)
