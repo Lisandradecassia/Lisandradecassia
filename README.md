@@ -6,8 +6,6 @@ cliente, e por desejar mudar de vida e ter oportunidades melhores, decidi estuda
 Sou iniciante no universo tech e nesse momento de transição de carreira, busco minha primeira oportunidade no mercado de tecnologia. </br>
 Quanto mais eu aprendo, mais tenho me apaixonado por tudo isso. O front end já tem meu coração! :purple_heart:
 </br>
-Sigo me aprofundando em desenvolvimento backend e frontend e fortalecendo meus conhecimentos, através da Unopar e cursos da Alura, onde tenho desenvolvido outras habilidades como, produção ou desenvolvimento de softwares, administração de redes, infraestrutura de TI, react e banco de dados.
-</br>
 
 ![Capa Github (2)](https://user-images.githubusercontent.com/102766893/195421275-aac73888-3784-474b-b4ab-93bdc2d7f364.jpg)
 </br>
