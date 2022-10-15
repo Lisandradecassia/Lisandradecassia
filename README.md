@@ -2,12 +2,11 @@
 </br>
 </br>
 Tenho 28 anos, moro em Teresina/PI e atuei por mais de 7 anos na área de Relacionamento com o
-cliente. Por desejar mudar de vida e ter oportunidades melhores, decidi estudar programação. 
-Nesse momento de transição de carreira, busco minha primeira oportunidade no mercado de tecnologia. 
-Sou iniciante no universo da programação, e tenho me apaixonado cada vez mais pelo front end. 
-Quanto mais eu aprendo, mais eu amo tudo isso! :purple_heart:
+cliente, e por desejar mudar de vida e ter oportunidades melhores, decidi estudar programação. </br>
+Sou iniciante no universo tech e nesse momento de transição de carreira, busco minha primeira oportunidade no mercado de tecnologia. </br>
+Quanto mais eu aprendo, mais tenho me apaixonado por tudo isso. O front end já tem meu coração! :purple_heart:
 </br>
-Sigo me aprofundando em desenvolvimento backend e frontend e fortalecendo meus conhecimentos, através da Unopar e cursos da Alura, onde tenho desenvolvido outras habilidades como, produção ou desenvolvimento de softwares, administração de redes, infraestrutura de TI e banco de dados.
+Sigo me aprofundando em desenvolvimento backend e frontend e fortalecendo meus conhecimentos, através da Unopar e cursos da Alura, onde tenho desenvolvido outras habilidades como, produção ou desenvolvimento de softwares, administração de redes, infraestrutura de TI, react e banco de dados.
 </br>
 
 ![Capa Github (2)](https://user-images.githubusercontent.com/102766893/195421275-aac73888-3784-474b-b4ab-93bdc2d7f364.jpg)
@@ -45,8 +44,7 @@ Sigo me aprofundando em desenvolvimento backend e frontend e fortalecendo meus c
   <a href="https://github.com/Lisandradecassia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lisandradecassia&show_icons=true&theme=synthwave"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandradecassia&layout=compact&langs_count=7&theme=synthwave"/>
-</div> 
-</br>
+</div> </br>
 
   
   ![Capa](https://user-images.githubusercontent.com/102766893/195422000-b51be00a-b3d2-49e8-92a9-be776231d976.jpg)
