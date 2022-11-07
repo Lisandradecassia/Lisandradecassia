@@ -1,10 +1,15 @@
 ![Capa Github (1)](https://user-images.githubusercontent.com/102766893/195413841-c18772c8-3f28-4671-a2e9-347a8e794cfb.jpg)
 </br>
 </br>
-Tenho 28 anos, moro em Teresina/PI e atuei por mais de 7 anos na área de Relacionamento com o
-cliente, e por desejar mudar de vida e ter oportunidades melhores, decidi estudar programação. </br>
-Sou iniciante no universo tech e nesse momento de transição de carreira, busco minha primeira oportunidade no mercado de tecnologia. </br>
-Quanto mais eu aprendo, mais tenho me apaixonado por tudo isso. Inclusive, o front end já tem meu coração! :purple_heart:
+Tenho 28 anos, moro em Teresina/PI e atuei por mais de 7 anos na área de Relacionamento com o cliente. Sou movida por desafios e apaixonada por aprender, e certamente essa inquietude me conectou a pessoas da área de tecnologia, me fazendo despertar interesse pela área. 
+Adoro o fato de todos os dias precisar solucionar novos problemas e aprender com eles. Quanto mais eu aprendo, mais tenho me apaixonado por tudo isso.:purple_heart:</br>
+</br>
+Tenho conhecimentos básicos em REST API, estrutura MVC, MySQL, HTML, CSS, JavaScript, Git/Github, React e Metodologias Ágeis.</br>
+</br>
+Esses anos de mercado me ajudaram a desenvolver uma série de habilidades e competências como: comunicação, trabalho em equipe, auto gerenciamento, senso crítico, liderança, gerenciamento de tempo e buscar maneiras de aprender a aprender.</br>
+ </br>
+Que tal marcarmos um cafezinho virtual para nos conhecermos melhor? ☕😊
+ 
 </br>
 
 ![Capa Github (2)](https://user-images.githubusercontent.com/102766893/195421275-aac73888-3784-474b-b4ab-93bdc2d7f364.jpg)
