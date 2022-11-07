@@ -1,4 +1,4 @@
-![Capa Github (1)](https://user-images.githubusercontent.com/102766893/195413841-c18772c8-3f28-4671-a2e9-347a8e794cfb.jpg)
+![Capa Github](https://user-images.githubusercontent.com/102766893/200405864-adc6cefe-04a1-47b2-b621-d937bf48e04f.png)
 </br>
 </br>
 Tenho 28 anos, moro em Teresina/PI e atuei por mais de 7 anos na área de Relacionamento com o cliente. Sou movida por desafios e apaixonada por aprender, e certamente essa inquietude me conectou a pessoas da área de tecnologia, me fazendo despertar interesse pela área. 
